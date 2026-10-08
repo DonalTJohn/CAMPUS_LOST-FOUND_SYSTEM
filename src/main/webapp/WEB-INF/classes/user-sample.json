@@ -1,0 +1,9 @@
+{
+  "userId": 1,
+  "name": "John Doe",
+  "username": "johndoe",
+  "email": "john.doe@campus.edu",
+  "phone": "9876543210",
+  "role": "USER",
+  "status": "ACTIVE"
+}
